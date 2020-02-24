@@ -2,4 +2,4 @@
 
 Este projeto é baseado no curso NodeJS e ReactJS da Rocketseat, como tutorial de aprendizagem das linguagens citadas.
 
-Banco de dados utilizado: *__MongoDB em Docker.__* 
+Banco de dados utilizado: *__MongoDB__* 
